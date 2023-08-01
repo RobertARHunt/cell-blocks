@@ -1,0 +1,2 @@
+- both halves of treesearch AI seperated
+- more graphs and charts to show results
